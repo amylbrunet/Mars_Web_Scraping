@@ -1,4 +1,4 @@
-# Web Scraping Homework - Mission to Mars
+# Mission to Mars
 
 ![mission_to_mars](mission_to_mars/images/mission_to_mars_readme.png)
 
